@@ -305,6 +305,9 @@ Q: Generate a request or desire to buy a plane ticket from {city_from} to {city_
 На графиках, на самом деле, видно, что значение rank в этих 4 экспериментах не особо изменяет результаты , в отличие от параметра alpha. Если бы позволяло время, я бы еще поэкспериментировала с этими и другими параметрами.
 
 
+
+Модель выложена на HF hub [pestova/deepseek-coder-1.3b-function-calling-v1](https://huggingface.co/pestova/deepseek-coder-1.3b-function-calling-v1).
+
 ## Результаты
 
 Далее будут представлены результаты тестирования модели на моем датасете.
